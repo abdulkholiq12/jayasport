@@ -1,0 +1,23 @@
+Untuk pemesanan lapanga futsal, anda harus memenuhi syarat-syarat yang kami berika pada bagian selanjutnya, apa saja syarat yang harus anda penuhi atau bagaimana cara untuk mendapatkan tiket secara online dari biosko raya, berikut :
+
+<br>01. Anda harus daftar sebagai member.
+<br>02. Silahkan isi semua data-data pendaftaran anda dengan baik dan benar.
+<br>03. Jika semua sudah di isi, maka silahkan klik tombol submit.
+<br>04. Jika sukses melakukan pendaftaran, anda sudah bisa masuk.
+<br>05. Masukkan pada halaman login username dan password anda waktu mendaftar.
+<br>06. Jika benar, anda akan di bawa ke halaman member.
+<br>07. Pada halaman member anda bisa memilih lapangan futsal 
+<br>08. Pilih dan lihat keterangan lapangan futsal yang anda ingin sewa terlebih dahulu jika mau.
+<br>09. Jika pilihan anda sudah benar, klik button "<b>booking</b>".
+<br>10. Pilih berapa lama waktu anda ingin memesan lapangan tersebut. 
+<br>11. Tentukan jam mulai pemesanan, klik tombol update "<b>booking</b>". 
+<br>12. Isi semua data-data penyewaan lapangan futsal anda dengan benar.
+<br>13. Klik button submit.
+<br>14. Jika data2 yang anda isikan benar, maka anda akan sukses memesan lapangan futsal.
+<br>15. Lapangan futsal yang di pesan akan masuk ke laporan pemesanan lapangan futsal dengan status baru.
+<br>16. Silahkan bayar pesanan anda ke rekening futsal dengan transfer.
+<br>17. Jika sudah transfer, silahkan konfirmasi pembayaran.
+<br>18. Setelah konfirmasi, tunggu status anda samapai di konfirmasi oleh admin.
+<br>19. Cetak jika status lapangan futsal sudah lunas atau di konfirmasi dan selesai.
+<br>20. Enjoy your Booking
+
